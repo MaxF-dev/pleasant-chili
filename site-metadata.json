@@ -37,12 +37,6 @@
                 "type": "action"
             },
             {
-                "type": "action",
-                "label": "Contact Info",
-                "url": "/pricing",
-                "style": "primary"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
@@ -52,6 +46,12 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "type": "action",
+                "label": "Contact Info",
+                "url": "/pricing",
+                "style": "primary"
             }
         ],
         "has_anncmnt": true,
