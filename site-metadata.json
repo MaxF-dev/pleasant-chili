@@ -14,12 +14,6 @@
         "primary_nav_links": [
             {
                 "type": "action",
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Services",
                 "url": "/blog",
                 "style": "link"
