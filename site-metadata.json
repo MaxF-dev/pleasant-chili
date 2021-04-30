@@ -43,12 +43,6 @@
                 "label": "App Store",
                 "url": "/pricing",
                 "style": "primary"
-            },
-            {
-                "type": "action",
-                "label": "Google Play",
-                "url": "/pricing",
-                "style": "secondary"
             }
         ],
         "has_anncmnt": true,
