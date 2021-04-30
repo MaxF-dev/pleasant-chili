@@ -16,7 +16,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "App Store",
+                "label": "Contact Info",
                 "url": "/pricing",
                 "style": "primary"
             }
