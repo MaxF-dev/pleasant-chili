@@ -11,19 +11,7 @@
         "logo": "/images/logo.png",
         "logo_alt": "App logo",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Portfolio",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
