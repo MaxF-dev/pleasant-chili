@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      # We are a small and personal residential building company
+      ## We are a small and personal residential building company
     actions:
       - type: action
         label: Our Work
