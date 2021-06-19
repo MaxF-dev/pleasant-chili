@@ -10,7 +10,7 @@ sections:
       that you can use on any device.
     actions:
       - type: action
-        label: App Store
+        label: Our Work
         url: /pricing
         style: primary
       - type: action
