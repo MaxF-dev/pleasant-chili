@@ -14,7 +14,7 @@ sections:
         url: /pricing
         style: primary
       - type: action
-        label: Google Play
+        label: Contact Us
         url: /pricing
         style: secondary
     image_alt: Hero section placeholder image
